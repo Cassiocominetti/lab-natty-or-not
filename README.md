@@ -1,5 +1,7 @@
 # Projeto "Podcast Diálogos Contemporâneos"
 
+![image](https://github.com/Cassiocominetti/lab-natty-or-not/assets/107282631/e55e270b-2cfc-457b-b063-cb9009a20607) 
+
 ## 📒 Descrição
 
 O projeto "Podcast Diálogos Contemporâneos" teve por objetivo, utilizar algumas
