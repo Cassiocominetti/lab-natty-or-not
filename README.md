@@ -1,7 +1,5 @@
 # Projeto "Podcast Diálogos Contemporâneos"
 
-<img src="./assets/Preview.JPG" alt="Preview da página do podcast" width="600"/>
-
 ## 📒 Descrição
 
 O projeto "Podcast Diálogos Contemporâneos" teve por objetivo, utilizar algumas
